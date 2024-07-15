@@ -4,7 +4,10 @@ A simple project with basic setup for creating tests with
 [Behave](https://behave.readthedocs.io/en/stable/) library.
 
 ## Table of contents
-[TOC]
+
+1. [Table of contents](#table-of-contents)
+1. [Executing tests](#executing-tests)
+1. [Useful things already setup](#useful-things-already-setup)
 
 ## Executing tests
 
